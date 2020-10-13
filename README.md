@@ -1,5 +1,11 @@
-### Hi there 👋
+### Olá, sinta-se à vontade, mas não repara na bagunça 👋
 
+- 📚 Estudante de desenvolvimento de sistemas
+- 🇧🇷 Jaú - SP, Brasil
+- 💻 Gosto de web dev
+
+### Fale comigo:
+📱 [WhatsApp](https://wa.me/5514991314167)
 <!--
 **apt-get-ryan/apt-get-ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
