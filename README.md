@@ -1,7 +1,6 @@
 ### Olá, sinta-se à vontade, mas não repara na bagunça 👋
 
-- 📚 Estudante de desenvolvimento de sistemas
-- 🇧🇷 Jaú - SP, Brasil
+- 📚 Estudante de análise e desenvolvimento de sistemas
 - 💻 Gosto de web dev
 
 ### Fale comigo:
