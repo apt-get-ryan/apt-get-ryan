@@ -2,6 +2,7 @@
 
 - 📚 Estudante de análise e desenvolvimento de sistemas
 - 💻 Gosto de web dev
+- [🖥️ Portfolio](https://apt-get-ryan.github.io/)
 
 ### Fale comigo:
 📱 [WhatsApp](https://wa.me/5514991314167)
