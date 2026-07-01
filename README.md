@@ -1,9 +1,9 @@
-### Olá, sinta-se à vontade, mas não repara na bagunça 👋
+### Olá, bem-vindo(a) 👋
 
-- 📚 Estudante de análise e desenvolvimento de sistemas
-- 💻 Gosto de web dev
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Gosto de web dev (React.js + Node.js)
 - [🖥️ Portfolio](https://apt-get-ryan.github.io/)
-
+- 🔭 Atualmente construindo um projeto pessoal de Mini-ERP
 ### Fale comigo:
 📱 [WhatsApp](https://wa.me/5514991314167)
 <!--
